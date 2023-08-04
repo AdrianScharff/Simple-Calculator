@@ -71,7 +71,9 @@ button {
 }
 
 p {
-    color: white;
-    margin-top: 3.8rem;
+    position: absolute;
+    /* color: white; */
+    top: 95%;
+    left: 95%;
     font-size: 14px;
 }
