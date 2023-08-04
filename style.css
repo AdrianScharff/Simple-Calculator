@@ -69,3 +69,9 @@ button {
 .btn-clear {
     background: red;
 }
+
+p {
+    color: white;
+    margin-top: 3.8rem;
+    font-size: 14px;
+}
