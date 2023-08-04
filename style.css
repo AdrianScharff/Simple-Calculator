@@ -72,8 +72,10 @@ button {
 
 p {
     position: absolute;
-    /* color: white; */
-    top: 95%;
-    left: 95%;
+    bottom: 1%;
+    right: 1%;
     font-size: 14px;
+    white-space: nowrap;
+    width: 23%;
+    text-align: center;
 }
